@@ -19,8 +19,11 @@ Um site de e-commerce moderno e totalmente responsivo, desenvolvido com foco na 
 
 O layout se adapta automaticamente a diferentes tamanhos de tela. Em telas menores (como celulares), a barra de navegação se transforma em um botão para abrir o menu, economizando espaço e melhorando a usabilidade.
 
-## 📷 Segue o deploy e vídeo do E-commerce
+## 📷 Segue o deploy e a imagem do E-commerce
 
+https://mgtechstore.netlify.app/
+
+![image](https://github.com/user-attachments/assets/d0671c5c-9b2f-49cc-9f63-074280535c3d)
 
 
 ## 📦 Como Usar
